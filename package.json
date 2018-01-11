@@ -1,0 +1,30 @@
+{
+  "name": "image-minify",
+  "version": "0.1.0",
+  "description": "image compress size minify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfey/image-minify.git"
+  },
+  "keywords": [
+    "image",
+    "compress",
+    "size",
+    "minify",
+    "img",
+    "png",
+    "jpg",
+    "jpeg",
+    "webp"
+  ],
+  "author": "perfey",
+  "bugs": {
+    "url": "https://github.com/perfey/image-minify/issues"
+  },
+  "homepage": "https://github.com/perfey/image-minify/blob/master/README.md",
+  "license": "ISC"
+}
