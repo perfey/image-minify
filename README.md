@@ -47,7 +47,7 @@ imgSpawn.on('close', function (code) {
 pngSpawn(
 	input, // 源文件地址
 	output, // 生成文件地址
-	options // 配置项 对象，默认值 { color = 256 }
+	options // 配置项 对象，默认值 { color: 256 }
 )
 ```
 
@@ -55,7 +55,7 @@ pngSpawn(
 jpgSpawn(
 	input, // 源文件地址
 	output, // 生成文件地址
-	options // 配置项 对象，默认值 { quality = 70 }
+	options // 配置项 对象，默认值 { quality: 70 }
 )
 ```
 
@@ -63,6 +63,6 @@ jpgSpawn(
 webpSpawn(
 	input, // 源文件地址
 	output, // 生成文件地址
-	options // 配置项 对象，默认值 { quality = 80 }
+	options // 配置项 对象，默认值 { quality: 80 }
 )
 ```
